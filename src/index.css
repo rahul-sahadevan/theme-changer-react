@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.black{
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+}
+.white{
+  background-color: white;
+}
+.white-head{
+  color: white;
+}
+.black-btn,.white-btn{
+  padding: 5px;
+  border: none;
+  font-weight: bold;
+  border-radius: 3px;
+
+}
+.black-btn{
+  background-color: black;
+  color: white;
+}
+.white-btn{
+  background-color: grey;
+  color:black ;
+}
